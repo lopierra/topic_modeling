@@ -1,6 +1,6 @@
 # topic_modeling
 
-Data: ~21,000 progress notes were extracted from a database of patient records if they contained one or more of the following terms:
+**Data:** ~21,000 progress notes were extracted from a database of patient records if they contained one or more of the following terms:
 
 * htn
 * hypertension
