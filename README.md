@@ -10,4 +10,4 @@
 
 The goal was to use bag-of-words text mining (using the tidytext package) and topic modeling (using the topicmodels package) to perform exploratory analyses of this unstructured data.
 
-See [html report](https://github.com/lopierra/topic_modeling/blob/master/topic_modeling_public.html) for results.
+See full report [here](https://github.com/lopierra/topic_modeling/blob/master/topic_modeling_public.md).
