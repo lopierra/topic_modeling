@@ -2,7 +2,11 @@
 title: "Text Mining and Topic Modeling of Unstructured Notes in Patient Records"
 author: "Pierrette Lo"
 date: "June 18, 2018"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: kable
 ---
 
 ### NOTES
